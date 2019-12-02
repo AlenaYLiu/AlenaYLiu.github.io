@@ -3,5 +3,6 @@ layout: default
 title: Contact
 id: contact
 ---
+Phone number: 6477831374
 
-This is my contact page!!!!
+Email: liux1915@mylaurier.ca
